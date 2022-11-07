@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F2F2F2;
+  color: #45A9BF;
+  font-family: 'Inconsolata', monospace;
+}
+ 
+.app h1 {
+  text-align: center;
+  margin-top: 850px;
+
+}
+
+.app{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 700px;
+    background-image: url(./ja.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.all-skills{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 700px;
+  margin-top: 90px;
+}

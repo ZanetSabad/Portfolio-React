@@ -1,0 +1,45 @@
+.header{
+    width: 550px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Iam{
+    margin-bottom: 30px;
+    font-size: 50px;
+    color: #010D00;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+}
+.myName{
+    margin-bottom: 30px;
+    font-size: 60px;
+    color: #45A9BF;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.text{
+    display: inline-block;    
+    margin-left: 150px;    
+    font-size: 25px;
+    color: #010D00;
+    text-align: left;
+    letter-spacing: 3px;
+    
+}
+
+.two{
+    letter-spacing: 4.5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+.three{
+    letter-spacing: 4.5px;
+    font-weight: 700;
+}
