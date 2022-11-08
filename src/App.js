@@ -1,7 +1,7 @@
 import Skill from "./components/Skill"
 import Header from "./components/Header"
 import Navigace from "./components/Navigace"
-import Button from "./components/Button"
+
 
 
 function App() {
