@@ -11,14 +11,18 @@ body {
   color: #45A9BF;
   font-family: 'Inconsolata', monospace;
 }
+
+.head{
+  margin-left: 80px;
+}
  
-.app h1 {
+.skills h1 {
   text-align: center;
   margin-top: 850px;
 
 }
 
-.app{
+.skills{
     border-radius: 10px;
     display: flex;
     flex-direction: column;

@@ -1,11 +1,25 @@
 import Skill from "./components/Skill"
 import Header from "./components/Header"
+import Navigace from "./components/Navigace"
+import Button from "./components/Button"
+
 
 function App() {
+ 
+
+
   return (
-      <div className="app"> 
+
+    <div className="app"> 
+
+      <div className="head">
+          <Navigace />
           <Header />
           
+      </div>
+
+      <div className="skills"> 
+        
           <h1>S čím jsem už pracovala</h1>
 
           <div className="all-skills">
@@ -14,6 +28,7 @@ function App() {
             <Skill />
             <Skill />
           </div>
+      </div>
       </div>
   );
 }

@@ -1,0 +1,26 @@
+.button a{
+    font-size: 25px;
+    color: #010D00;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 700;  
+   
+}
+
+.button{
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 40px;    
+    background-color: #89345e;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight: 700;    
+    border: #010D00 2px solid;
+    box-shadow: 3px 3px 5px #010D00;
+    
+}
+
+.button:hover{
+    box-shadow: 1px 1px 5px #010D00;
+}
+
