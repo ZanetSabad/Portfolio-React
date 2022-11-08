@@ -1,0 +1,29 @@
+.navigace{
+    position: absolute;
+    width: 300px;
+    height: 90vh;
+    background-color: #89345e;
+    margin-top: 40px;
+    box-shadow: 10px 10px 20px #010D00;
+    border-radius: 10px;
+   
+}
+
+/* .navigace img{
+    width: 50px;
+} */
+
+.navigace li{
+    margin-top: 40px;
+    list-style-type: none;
+    text-align: center;    
+}
+
+.navigace a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #010D00;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
